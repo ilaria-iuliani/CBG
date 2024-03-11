@@ -19,8 +19,10 @@
   - text: "Dropdown header" # Title for block of menu items
   - text: Page with custom navigation
     href: /docs/custom-navigation/
-- text: Join-us
-  href: /blog/
+- text: Publications
+  href: /about/
 - text: GitHub
   href: https://github.com/peterdesmet/petridish/
+- text: Join-us
+  href: /blog/
   new_window: true
