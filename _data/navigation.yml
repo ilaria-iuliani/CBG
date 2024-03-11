@@ -11,7 +11,7 @@
   - text: Case studies in bioinformatics
     href: /docs/installation/
   - text: Bioinformatics for Genomics
-    href: /docs/configuration/
+    href: /docs/Computational_Biology_Course/
   - text: Solving Biological Problems that require Math
     href: /docs/configuration/
   - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
