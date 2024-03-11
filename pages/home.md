@@ -1,6 +1,6 @@
 ---
 title: <br>Computational Biology Group
-background: /images/home.png
+background: /images/retina.png
 permalink: /
 ---
 
