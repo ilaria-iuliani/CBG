@@ -1,6 +1,6 @@
 ---
 title: <br>Statistical physics <br> of cells and genomes
-background: /images/pipeline.png
+background: /images/home.png
 permalink: /
 ---
 
