@@ -2,23 +2,25 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
+- text: Research
   href: /about/
-- text: Team
+- text: People
   href: /team/
-- text: Blog
-  href: /blog/
-- text: Documentation
+- text: Teaching
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
+  - text: Case studies in bioinformatics
     href: /docs/installation/
-  - text: Configuration
+  - text: Bioinformatics for Genomics
+    href: /docs/configuration/
+  - text: Solving Biological Problems that require Math
     href: /docs/configuration/
   - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Dropdown header" # Title for block of menu items
   - text: Page with custom navigation
     href: /docs/custom-navigation/
+- text: Join-us
+  href: /blog/
 - text: GitHub
   href: https://github.com/peterdesmet/petridish/
   new_window: true
