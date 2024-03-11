@@ -1,5 +1,5 @@
 ---
-title: <br>Statistical physics <br> of cells and genomes
+title: <br>Computational Biology Group
 background: /images/home.png
 permalink: /
 ---
