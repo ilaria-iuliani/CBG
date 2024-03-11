@@ -6,7 +6,7 @@ permalink: /
 
 ## Who are we?
 
-The Computational Biology Group (CBG) is a research group embedded in the [Department of Computational Biology](http://unil.ch/dbc) at the [University of Lausanne](http://unil.ch). The group consists of [PhD students and postdocs](http://www2.unil.ch/cbg/index.php?title=People) and is led by [Prof. Sven Bergmann](user:Sven).
+The Computational Biology Group (CBG) is a research group embedded in the [Department of Computational Biology](http://unil.ch/dbc) at the [University of Lausanne](http://unil.ch). The group is led by Prof. Sven Bergmann.
 
 ## What are our goals?
 
