@@ -1,7 +1,7 @@
 # SITE SETTINGS
 title: Computational Biology Group                     # Title in top navigation bar (navbar) and <head>
 description: Computational Biology Group # Site description in <head>
-author: CBG   # Used for copyright statement in footer
+author: Computational Biology Group   # Used for copyright statement in footer
 # url: "https://pols.unimi.it"          # No slash at the end
 # baseurl: ""                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
