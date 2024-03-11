@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: CBG                     # Title in top navigation bar (navbar) and <head>
+title: Computational Biology Group                     # Title in top navigation bar (navbar) and <head>
 description: Computational Biology Group # Site description in <head>
 author: CBG   # Used for copyright statement in footer
 # url: "https://pols.unimi.it"          # No slash at the end
