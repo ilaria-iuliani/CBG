@@ -1,8 +1,8 @@
 # Project team members listed below will appear on the /team page
 
-- name: Marco Cosentino Lagomarsino
+- name: Sven Bergmann
   role: Principal Investigator # Will appear next to name
-  image: /images/people_mcl.jpg # Can be external link
+  image: /images/people/ilaria.jpeg # Can be external link
   description: > # Can be Markdown
     Theoretical Physicist and qBio enthusiast. Master's U. Milan, PhD AMOLF and U. Leiden, Postdoc Institut Curie, CNRS@Sorbonne, SPCG since 2018. I like models that guide the understanding of data and the development of new concepts and theories, such as Luria&Delbruck, Random Walk, and Fermi's liquid drop. I am also a big fan of scaling concepts in just about everything. 
   cv: mclCV.pdf
@@ -14,9 +14,9 @@
   #twitter: twitter_name
   github: mcltone
   
-- name: Simone Pompei
+- name: Ilaria Iuliani
   role: Post Doc
-  image: /images/people_sp.jpg 
+  image: /images/people/ilaria.jpeg 
   description: >  # Can be Markdown
     Statistical Physicist. I work on the interface between statistical physics and quantitative biology, with a particular interest on population genetics and cancer evolution. This connection emerges at two levels: (i) data-driven quantitative approaches towards biological problems are grounded on statistical inference and on information theory and (ii) statistical mechanics provides key tools to model stochastic processes and to develop a coarse grained description of microscopic, or intrinsically noisy, systems.
   cv: spCV.pdf
@@ -30,9 +30,9 @@
 
 
   
-- name: Ludovico Calabrese
+- name: Sofia
   role: PhD
-  image: /images/people_lc.jpg
+  image: /images/people/ilaria.jpeg
   description: >
     Theoretical Physicist. I like to use minimal models and proof-of-principle arguments to determine the essential conditions that cause a phenomenon. I am fascinated by genetic networks and the motifs/circuits found inside them and how living systems perform functional tasks largely by selecting the right architecture. In my research, I define mathematical models of cell growth and gene expression with three main questions in mind: (i) how do global parameters of biosynthesis vary across growth conditions (ii) what do these trends imply as to what is limiting for growth (iii) whether these trends can help us understand how the behavior of genetic circuits varies across growth conditions.
   cv: lcCV.pdf
