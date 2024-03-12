@@ -26,7 +26,7 @@
   github: github_username
   email: name@example.com
 
-  - name: Ilaria 
+- name: Ilaria 
   role: Postdoc # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
@@ -39,7 +39,7 @@
   github: github_username
   email: name@example.com
 
-  - name: David
+- name: David
   role: Postdoc # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
@@ -52,7 +52,7 @@
   github: github_username
   email: name@example.com
 
-  - name: Dennis 
+- name: Dennis 
   role: Postdoc # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
@@ -65,7 +65,7 @@
   github: github_username
   email: name@example.com
 
-    - name: Michael 
+- name: Michael 
   role: PhD # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
@@ -78,7 +78,7 @@
   github: github_username
   email: name@example.com
 
-      - name: Sofia 
+- name: Sofia 
   role: PhD # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
@@ -91,7 +91,7 @@
   github: github_username
   email: name@example.com
 
-      - name: Sacha 
+  - name: Sacha 
   role: PhD # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
@@ -104,8 +104,7 @@
   github: github_username
   email: name@example.com
 
-
-      - name: Lea 
+- name: Lea 
   role: PhD # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
