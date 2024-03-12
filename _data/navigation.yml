@@ -6,19 +6,18 @@
   href: /about/
 - text: People
   href: /team/
+- text: Collaborations
+  href: /team/
 - text: Teaching
   menu: # Dropdown menu (one level deep only)
-  - text: Case studies in bioinformatics
+  - text: Data Analysis
     href: /docs/installation/
   - text: Bioinformatics for Genomics
     href: /docs/Computational_Biology_Course/
   - text: Solving Biological Problems that require Math
     href: /docs/configuration/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: Page with custom navigation
-    href: /docs/custom-navigation/
+  - text: Modelilng and bionformatics
+    href: /docs/configuration/
 - text: Publications
   href: /about/
 - text: GitHub
