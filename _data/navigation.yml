@@ -3,11 +3,11 @@
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: Research
-  href: /about/
+  href: /research/
 - text: People
   href: /team/
 - text: Collaborations
-  href: /team/
+  href: /about/
 - text: Teaching
   menu: # Dropdown menu (one level deep only)
   - text: Data Analysis
@@ -19,7 +19,7 @@
   - text: Modelilng and bionformatics
     href: /docs/configuration/
 - text: Publications
-  href: /about/
+  href: /publications/
 - text: GitHub
   href: https://github.com/peterdesmet/petridish/
 - text: Join-us
